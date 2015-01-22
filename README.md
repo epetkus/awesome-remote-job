@@ -156,6 +156,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   - [Sqwiggle](https://www.sqwiggle.com/) Online Collaboration Software for Remote and Virtual Teams.
 - Project managment 
   - [Trello](https://trello.com/) - lean project boards.
+  - [Asana](https://asana.com/) - Management software for teams
 
 ## Law & Finance
 US based companies can hire remote workers as [1099 contractors](http://www.wisegeek.com/what-is-a-1099-contractor.htm).
@@ -165,3 +166,4 @@ US based companies can hire remote workers as [1099 contractors](http://www.wise
 - [Nomad List](https://nomadlist.io/) - Compare cost and quality of living in different cities.
 - [Regus USA](http://www.regus.com/) - Executive suites, virtual offices & conference room space.
 - [Remote Companies on Careers SO](http://careers.stackoverflow.com/companies?searchTerm=&location=&allowsremote=true)
+- [WorkFrom](https://workfrom.co/) - Find cafes that are good for working in
